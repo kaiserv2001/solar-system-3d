@@ -13,7 +13,7 @@ A photorealistic 3D solar system visualization built with React Three Fiber and 
 - Click any planet to smoothly pan the camera and view its info panel
 - Orbit paths, time controls (speed up / pause), and size comparison mode
 - Background music and hover/click sound effects
-- URL state — share a link focused on any planet (`?focus=mars`)
+- URL state — share a link focused on any planet
 - Custom space cursor
 
 ## Stack
