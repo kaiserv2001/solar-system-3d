@@ -55,8 +55,8 @@ export default function InfoPanel() {
   return (
     <>
       <div style={{
-        position: 'fixed', bottom: 36, right: 36,
-        width: 330, maxHeight: 560, overflowY: 'auto',
+        position: 'fixed', bottom: 92, right: 36,
+        width: 330, maxHeight: 'calc(100vh - 120px)', overflowY: 'auto',
         background: 'rgba(0,6,18,0.90)',
         border: '1px solid rgba(80,160,255,0.22)',
         borderRadius: 12,
